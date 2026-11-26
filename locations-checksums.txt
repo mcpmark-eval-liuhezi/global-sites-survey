@@ -1,0 +1,7 @@
+SHA-256: 41a775df4149c3fa8895152a3eda35af31c67019c7aedaef05ee5b34af0b8069
+MD5:     ca378c0debf157dd5c73fc6b8c1bda3c
+File:    data/locations.csv
+Repo:    mcpmark-eval-liuhezi/global-sites-survey
+
+Note: This file was committed as a fallback because gist creation failed with
+403 "Resource not accessible by personal access token" for this account.
